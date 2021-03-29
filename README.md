@@ -1,4 +1,4 @@
-<h1 align="center">I'm srikanth kasireddy</h1>
+<h1 align="center">Hi 👋,I'm srikanth kasireddy</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://srikanth-11.github.io/portfolio/](https://srikanth-11.github.io/portfolio/)
